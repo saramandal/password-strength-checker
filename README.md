@@ -57,7 +57,3 @@ Suggestions:
 ## Author
 Sara Mandal
 Cybersecurity Undergraduate
-
-Sara Mandal
-Cybersecurity Undergraduate
-University of Wollongong Dubai
